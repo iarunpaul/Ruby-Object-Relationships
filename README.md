@@ -5,7 +5,7 @@ This is a trial project created for hands on try, based on the article by ***Mar
 
 ## Ruby-Version-2.7.2
 
-The `Classes` folder holds the `Cinema` and `Movie` classes   
+Check the `master` branch. The `Classes` folder holds the `Cinema` and `Movie` classes   
 If you would like to get **pry-byebug** console bundle first.  
 `bundle`     
 

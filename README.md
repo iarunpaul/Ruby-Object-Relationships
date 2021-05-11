@@ -1,6 +1,8 @@
 # Ruby-Object-Relationships
 This is a trial project created for hands on try, based on the article by ***Marcella Maki*** on       
-## [Object Relationships in Basic Ruby](https://medium.com/@marcellamaki/object-relationships-in-basic-ruby-1af5773fff48)    
+## [Object Relationships in Basic Ruby](https://medium.com/@marcellamaki/object-relationships-in-basic-ruby-1af5773fff48)  
+referenced on the  
+## [Odin Project for Learning Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/object-oriented-programming-ruby-programming)   
 
 
 ## Ruby-Version-2.7.2
